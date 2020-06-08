@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //测试git
 //第一次修改代码
-//aaaaa
+//aaa
 @SpringBootApplication
 public class FirstgitApplication {
 
